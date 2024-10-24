@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://mavipoku.github.io/sitemap/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/MPx/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/PlC/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/rcj/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/Dfu/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/wJs/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/Npy/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/uql/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/PRf/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/epg/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/Dpa/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/oyp/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/SZs/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/loG/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/xZL/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/cof/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/VHE/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/xYZ/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/sFP/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/eEm/sitemap_index.mavipoku
+Sitemap: https://mavipoku.github.io/ZQN/sitemap_index.mavipoku
